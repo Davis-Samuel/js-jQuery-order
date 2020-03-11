@@ -196,7 +196,10 @@
   <!--格式md5(pwd)-->
   ```
 
-# JQuer**y**
+# JQuery
+
+- 学习视频：https://www.bilibili.com/video/av40716170
+- 辅助文档：http://jquery.cuishifeng.cn/
 
 - 在线引入JQuery:
 
@@ -245,3 +248,17 @@
   ```
 
 - 操作dom：![image-20200302130431847](C:\Users\91566\AppData\Roaming\Typora\typora-user-images\image-20200302130431847.png)
+
+- 先先写一个入口函数：
+
+  ```js
+  $(function(){});
+  ```
+
+- ![image-20200303133340821](C:\Users\91566\AppData\Roaming\Typora\typora-user-images\image-20200303133340821.png)
+
+- ![image-20200303133834421](C:\Users\91566\AppData\Roaming\Typora\typora-user-images\image-20200303133834421.png)
+- ![image-20200303144027350](C:\Users\91566\AppData\Roaming\Typora\typora-user-images\image-20200303144027350.png)
+
+
+
